@@ -1,13 +1,25 @@
----
-title: "Analisis1"
-author: "Oscar Morán - Karol Mejia"
-date: "2023-08-14"
-output: html_document
+--- 
+title: "Análisis de Vandalismos a la Flota del SITM MIO en Cali: Importancia y Justificación"
+author: "Oscar Morán - Karol Mejía"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "En este libro, exploraremos en detalle la base de datos que recopila información sobre los incidentes de vandalismo que han afectado al Sistema Integrado de Transporte Masivo (SITM) conocido como MIO. El MIO es un sistema de transporte público que opera en la ciudad de Cali, Colombia, y ha sido objeto de diversos actos de vandalismo a lo largo del tiempo. The output format for this example is bookdown::gitbook."
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Descripción
+
+---
+title: "Análisis de Vandalismos a la Flota del SITM MIO en Cali: Importancia y Justificación"
+author: "Karol Mejía - Oscar Morán"
+date: "6/08/2023"
+output: html_document
+---
 
 ## Introducción
 

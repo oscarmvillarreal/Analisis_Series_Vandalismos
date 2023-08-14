@@ -17,7 +17,7 @@ description: "En este libro, exploraremos en detalle la base de datos que recopi
 ---
 title: "Análisis de Vandalismos a la Flota del SITM MIO en Cali: Importancia y Justificación"
 author: "Karol Mejía - Oscar Morán"
-date: "6/08/2023"
+date: "13/08/2023"
 output: html_document
 ---
 

@@ -1,0 +1,33 @@
+---
+title: "Analisis1"
+author: "Oscar Morán - Karol Mejia"
+date: "2023-08-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+
+El presente documento tiene como objetivo analizar la base de datos histórica de vandalismos a la flota del Sistema Integrado de Transporte Masivo (SITM) MIO en la ciudad de Cali, Colombia. La información ha sido suministrada internamente por Metro Cali, lo que garantiza el acceso a datos confiables y autorizados para su análisis. 
+
+## Justificación
+
+El estudio de la base de datos histórica de vandalismos a la flota del SITM MIO reviste gran importancia por diversas razones:
+
+1. **Impacto en el Transporte Público:** El vandalismo a los autobuses y estaciones del MIO puede ocasionar daños significativos, generando costos operativos adicionales para el sistema. Este análisis nos permitirá comprender la magnitud del problema y cuantificar su impacto en el transporte público de la ciudad.
+
+2. **Seguridad Ciudadana:** Los actos de vandalismo también pueden afectar la seguridad de los usuarios y trabajadores del transporte público. Al analizar los datos, podremos identificar áreas y momentos de mayor riesgo, lo que facilitará la implementación de estrategias de prevención y protección.
+
+3. **Toma de Decisiones:** Contar con información sólida sobre los incidentes de vandalismo permitirá a las autoridades y a Metro Cali tomar decisiones informadas y eficientes para mejorar la protección de la flota y reducir los daños.
+
+4. **Detección de Patrones y Tendencias:** Mediante técnicas de análisis de datos, podremos identificar patrones y tendencias en los actos de vandalismo. Esto puede ser útil para anticipar futuros incidentes y diseñar políticas de prevención más efectivas.
+
+5. **Mejora del Servicio:** Al entender mejor la naturaleza de los vandalismos, se pueden implementar estrategias para minimizar los tiempos de inactividad de la flota y mejorar la calidad del servicio ofrecido a los usuarios.
+
+## Fuentes y Permisos de Uso
+
+La información utilizada en este análisis proviene de la base de datos suministrada internamente por Metro Cali. Se ha obtenido el permiso explícito para utilizar estos datos con fines analíticos y académicos, garantizando la confidencialidad y protección de la información sensible.
+
